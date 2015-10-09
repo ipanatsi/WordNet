@@ -7,7 +7,7 @@ use Symfony\Component\Process\ProcessBuilder;
 class WordNet
 {
     /**
-     * WordNet Execuatble Path
+     * WordNet Executable Path
      * 
      * @var string
      */
